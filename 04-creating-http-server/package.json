@@ -1,0 +1,14 @@
+{
+  "name": "04-creating-http-server",
+  "version": "1.0.0",
+  "description": "Creating a basic HTTP server with the Node.js http module",
+  "license": "ISC",
+  "author": "hisham rehab",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "run:dev": "node --watch index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
